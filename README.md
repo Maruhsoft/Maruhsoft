@@ -4,7 +4,7 @@
 - 👀 I’m interested in App dev, web dev, game dev, machine leraning, and computer networking
 - 🌱 I’m currently learning new IT technologies
 - 💞️ I’m looking to collaborate on your tech projects
-- 📫 How to reach me - Check my contact detaiils
+- 📫 How to reach me - Check my contact details
 - 💪🏻Let's grind
 
 
