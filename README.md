@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 - 👋 Hi, I’m @Maruhsoft
-- 👀 I’m interested in App dev, web dev, game dev, machine leraning, and computer networking
+- 👀 I’m interested in App dev, web dev, game dev, machine learning, and computer networking, cyber security
 - 🌱 I’m currently learning new IT technologies
-- 💞️ I’m looking to collaborate on your tech projects
+- 💞️ I’m open to collaboration on your tech projects
 - 📫 How to reach me - Check my contact details
 - 💪🏻Let's grind
 
