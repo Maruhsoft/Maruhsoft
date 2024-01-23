@@ -21,12 +21,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaruhSoft&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![Contributor](https://img.shields.io/badge/Contributor-1-blue)
-
-![GitHub stars](https://img.shields.io/github/stars/Maruhsoft/Maruhsoft?style=social)
-
-https://img.shields.io/github/stars/Maruhsoft/Maruhsoft?style=social
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
