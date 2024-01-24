@@ -27,6 +27,66 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MaruhSoft&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## GitHub Achievements
+
+### Code Ninja
+![Code Ninja](https://img.shields.io/badge/Award-Code%20Ninja-blue?style=flat-square)
+
+### Bug Hunter
+![Bug Hunter](https://img.shields.io/badge/Award-Bug%20Hunter-red?style=flat-square)
+
+### Open Source Hero
+![Open Source Hero](https://img.shields.io/badge/Award-Open%20Source%20Hero-green?style=flat-square)
+
+### Commit Guru
+![Commit Guru](https://img.shields.io/badge/Award-Commit%20Guru-orange?style=flat-square)
+
+### Pull Request Prodigy
+![Pull Request Prodigy](https://img.shields.io/badge/Award-PR%20Prodigy-yellow?style=flat-square)
+
+### Documentation Maestro
+![Documentation Maestro](https://img.shields.io/badge/Award-Documentation%20Maestro-blueviolet?style=flat-square)
+
+### Continuous Integration Champ
+![CI Champ](https://img.shields.io/badge/Award-CI%20Champ-critical?style=flat-square)
+
+### Code Review Connoisseur
+![Code Review Connoisseur](https://img.shields.io/badge/Award-Code%20Review%20Connoisseur-success?style=flat-square)
+
+### Innovation Trailblazer
+![Innovation Trailblazer](https://img.shields.io/badge/Award-Innovation%20Trailblazer-informational?style=flat-square)
+
+### DevOps Dynamo
+![DevOps Dynamo](https://img.shields.io/badge/Award-DevOps%20Dynamo-important?style=flat-square)
+
+### Cybersecurity Guardian
+![Cybersecurity Guardian](https://img.shields.io/badge/Award-Cybersecurity%20Guardian-lightgrey?style=flat-square)
+
+### Code Quality Guru
+![Code Quality Guru](https://img.shields.io/badge/Award-Code%20Quality%20Guru-yellowgreen?style=flat-square)
+
+### Version Control Virtuoso
+![Version Control Virtuoso](https://img.shields.io/badge/Award-Version%20Control%20Virtuoso-critical?style=flat-square)
+
+### API Artisan
+![API Artisan](https://img.shields.io/badge/Award-API%20Artisan-blueviolet?style=flat-square)
+
+### UX Maestro
+![UX Maestro](https://img.shields.io/badge/Award-UX%20Maestro-success?style=flat-square)
+
+### Accessibility Advocate
+![Accessibility Advocate](https://img.shields.io/badge/Award-Accessibility%20Advocate-informational?style=flat-square)
+
+### Data Science Dynamo
+![Data Science Dynamo](https://img.shields.io/badge/Award-Data%20Science%20Dynamo-important?style=flat-square)
+
+### Game Development Guru
+![Game Development Guru](https://img.shields.io/badge/Award-Game%20Development%20Guru-lightgrey?style=flat-square)
+
+### Blockchain Pioneer
+![Blockchain Pioneer](https://img.shields.io/badge/Award-Blockchain%20Pioneer-yellowgreen?style=flat-square)
+
+
 <span style="font-size:24px; font-weight:bold;">Building a Custom and Robust Website with PHP and MySQL</span>
 
 <span style="font-size:18px;">1. Planning and Requirement Gathering</span>
