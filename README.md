@@ -23,7 +23,7 @@ I'm always learning, iterating, and shipping. Open to collaborations that demand
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming & Scripting
-`C`, `C++`, `C#`, `Java`, `Kotlin`, `Python`, `PHP`, `Ruby`, `Fortran`, `HTML5`, `CSS3`, `JavaScript`, `Shell Script`
+`C`, `C++`, `C#`, `Java`, `Kotlin`, `Python`, `PHP`, `Ruby`, `HTML5`, `CSS3`, `JavaScript`, `Shell Script`
 
 ### ⚙️ Frameworks & Libraries
 `React`, `React Native`, `Angular`, `AngularJS`, `Vue`, `Bootstrap`, `SASS`, `Flutter`, `Node.js`, `Express`, `Laravel`, `Spring`, `Rails`
