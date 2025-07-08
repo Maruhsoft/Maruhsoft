@@ -1,87 +1,103 @@
-# 💫 About Me:
+# Maruh Akporowho (@MaruhSoft)
 
-- 👋 Hi, I’m @Maruhsoft
-- 👀 I’m interested in App dev, web dev, game dev, machine learning, and computer networking, cyber security
-- 🌱 I’m currently learning new IT technologies
-- 💞️ I’m open to collaboration on your tech projects
-- 📫 How to reach me - Check my contact details
-- 💪🏻Let's grind
+**Tech Generalist | Full-Stack Developer | DevOps Engineer | AI/ML Enthusiast | Cybersecurity Strategist**
 
+I'm a hands-on, business-aware technologist focused on building enterprise-grade systems across web, mobile, cloud, AI, and cybersecurity. I combine engineering rigour with practical experience to solve real-world problems through software.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Akporowho.maruh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maruhsoftsolutions) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maruh-akporowho-647159124) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MaruhSoft) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaruhSoft&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaruhSoft&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaruhSoft&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MaruhSoft&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm always learning, iterating, and shipping. Open to collaborations that demand ambition, innovation, and discipline.
 
 ---
+
+## 🔍 Areas of Focus
+
+- **Web & Mobile Development** – Full-stack systems using modern frameworks  
+- **DevOps & CI/CD** – Automation pipelines, IaC, containerisation, deployment  
+- **Machine Learning & Data Science** – Predictive modelling, data pipelines  
+- **Cybersecurity & Networking** – Offensive & defensive security, ethical hacking  
+- **Cloud Engineering** – AWS, Azure, GCP native architecture and services  
+- **Game Development** – Cross-platform 2D/3D interactive systems  
+- **API Engineering** – RESTful/Microservice design and documentation  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Scripting
+`C`, `C++`, `C#`, `Java`, `Kotlin`, `Python`, `PHP`, `Ruby`, `Fortran`, `HTML5`, `CSS3`, `JavaScript`, `Shell Script`
+
+### ⚙️ Frameworks & Libraries
+`React`, `React Native`, `Angular`, `AngularJS`, `Vue`, `Bootstrap`, `SASS`, `Flutter`, `Node.js`, `Express`, `Laravel`, `Spring`, `Rails`
+
+### 🧠 AI/ML & Data Science
+`TensorFlow`, `Keras`, `NumPy`, `Pandas`, `Scikit-learn`, `OpenCV`
+
+### 🧱 DevOps & Infrastructure
+`Docker`, `Kubernetes`, `Jenkins`, `GitHub Actions`, `Terraform`, `Ansible`, `Gradle`, `Nginx`, `Apache`
+
+### ☁️ Cloud Platforms
+`AWS`, `Microsoft Azure`, `Google Cloud Platform`, `Firebase`, `Cloudflare`
+
+### 🗄️ Databases
+`MySQL`, `MariaDB`, `SQLite`, `MongoDB`, `PostgreSQL`
+
+### 🎨 Design & UI/UX Tools
+`Figma`, `Sketch`, `Adobe Dreamweaver`
+
+---
+
+## 📈 GitHub Insights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaruhSoft&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaruhSoft&theme=nightowl&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaruhSoft&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 Developer Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=MaruhSoft&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 🏅 GitHub Achievements
+
+- ![Code Ninja](https://img.shields.io/badge/Award-Code%20Ninja-blue?style=flat-square)
+- ![Bug Hunter](https://img.shields.io/badge/Award-Bug%20Hunter-red?style=flat-square)
+- ![Open Source Hero](https://img.shields.io/badge/Award-Open%20Source%20Hero-green?style=flat-square)
+- ![Commit Guru](https://img.shields.io/badge/Award-Commit%20Guru-orange?style=flat-square)
+- ![PR Prodigy](https://img.shields.io/badge/Award-PR%20Prodigy-yellow?style=flat-square)
+- ![Documentation Maestro](https://img.shields.io/badge/Award-Documentation%20Maestro-blueviolet?style=flat-square)
+- ![CI/CD Champ](https://img.shields.io/badge/Award-CI%20Champ-critical?style=flat-square)
+- ![Code Review Connoisseur](https://img.shields.io/badge/Award-Code%20Review%20Connoisseur-success?style=flat-square)
+- ![Innovation Trailblazer](https://img.shields.io/badge/Award-Innovation%20Trailblazer-informational?style=flat-square)
+- ![DevOps Dynamo](https://img.shields.io/badge/Award-DevOps%20Dynamo-important?style=flat-square)
+- ![Cybersecurity Guardian](https://img.shields.io/badge/Award-Cybersecurity%20Guardian-lightgrey?style=flat-square)
+- ![Code Quality Guru](https://img.shields.io/badge/Award-Code%20Quality%20Guru-yellowgreen?style=flat-square)
+- ![Version Control Virtuoso](https://img.shields.io/badge/Award-Version%20Control%20Virtuoso-critical?style=flat-square)
+- ![API Artisan](https://img.shields.io/badge/Award-API%20Artisan-blueviolet?style=flat-square)
+- ![UX Maestro](https://img.shields.io/badge/Award-UX%20Maestro-success?style=flat-square)
+- ![Accessibility Advocate](https://img.shields.io/badge/Award-Accessibility%20Advocate-informational?style=flat-square)
+- ![Data Science Dynamo](https://img.shields.io/badge/Award-Data%20Science%20Dynamo-important?style=flat-square)
+- ![Game Dev Guru](https://img.shields.io/badge/Award-Game%20Development%20Guru-lightgrey?style=flat-square)
+- ![Blockchain Pioneer](https://img.shields.io/badge/Award-Blockchain%20Pioneer-yellowgreen?style=flat-square)
+
+---
+
+## 🧠 Developer Quote
+
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Akporowho.maruh)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maruhsoftsolutions)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maruh-akporowho-647159124)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MaruhSoft)
+
+---
+
+## 📊 Visitor Count
+
 [![](https://visitcount.itsvg.in/api?id=MaruhSoft&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## GitHub Achievements
-
-### Code Ninja
-![Code Ninja](https://img.shields.io/badge/Award-Code%20Ninja-blue?style=flat-square)
-
-### Bug Hunter
-![Bug Hunter](https://img.shields.io/badge/Award-Bug%20Hunter-red?style=flat-square)
-
-### Open Source Hero
-![Open Source Hero](https://img.shields.io/badge/Award-Open%20Source%20Hero-green?style=flat-square)
-
-### Commit Guru
-![Commit Guru](https://img.shields.io/badge/Award-Commit%20Guru-orange?style=flat-square)
-
-### Pull Request Prodigy
-![Pull Request Prodigy](https://img.shields.io/badge/Award-PR%20Prodigy-yellow?style=flat-square)
-
-### Documentation Maestro
-![Documentation Maestro](https://img.shields.io/badge/Award-Documentation%20Maestro-blueviolet?style=flat-square)
-
-### Continuous Integration Champ
-![CI Champ](https://img.shields.io/badge/Award-CI%20Champ-critical?style=flat-square)
-
-### Code Review Connoisseur
-![Code Review Connoisseur](https://img.shields.io/badge/Award-Code%20Review%20Connoisseur-success?style=flat-square)
-
-### Innovation Trailblazer
-![Innovation Trailblazer](https://img.shields.io/badge/Award-Innovation%20Trailblazer-informational?style=flat-square)
-
-### DevOps Dynamo
-![DevOps Dynamo](https://img.shields.io/badge/Award-DevOps%20Dynamo-important?style=flat-square)
-
-### Cybersecurity Guardian
-![Cybersecurity Guardian](https://img.shields.io/badge/Award-Cybersecurity%20Guardian-lightgrey?style=flat-square)
-
-### Code Quality Guru
-![Code Quality Guru](https://img.shields.io/badge/Award-Code%20Quality%20Guru-yellowgreen?style=flat-square)
-
-### Version Control Virtuoso
-![Version Control Virtuoso](https://img.shields.io/badge/Award-Version%20Control%20Virtuoso-critical?style=flat-square)
-
-### API Artisan
-![API Artisan](https://img.shields.io/badge/Award-API%20Artisan-blueviolet?style=flat-square)
-
-### UX Maestro
-![UX Maestro](https://img.shields.io/badge/Award-UX%20Maestro-success?style=flat-square)
-
-### Accessibility Advocate
-![Accessibility Advocate](https://img.shields.io/badge/Award-Accessibility%20Advocate-informational?style=flat-square)
-
-### Data Science Dynamo
-![Data Science Dynamo](https://img.shields.io/badge/Award-Data%20Science%20Dynamo-important?style=flat-square)
-
-### Game Development Guru
-![Game Development Guru](https://img.shields.io/badge/Award-Game%20Development%20Guru-lightgrey?style=flat-square)
-
-### Blockchain Pioneer
-![Blockchain Pioneer](https://img.shields.io/badge/Award-Blockchain%20Pioneer-yellowgreen?style=flat-square)
