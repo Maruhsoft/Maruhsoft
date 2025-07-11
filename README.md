@@ -1,4 +1,4 @@
-# Maruh Akporowho (@MaruhSoft)
+# Maruh Akporowho (@MaruhSoft Solutions)
 
 **Tech Generalist | Full-Stack Developer | DevOps Engineer | AI/ML Enthusiast | Cybersecurity Strategist**
 
