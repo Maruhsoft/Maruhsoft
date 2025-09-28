@@ -10,7 +10,7 @@ I'm always learning, iterating, and shipping. Open to collaborations that demand
 
 ## 🔍 Areas of Focus
 
-- **Web & Mobile Development** – Full-stack systems using modern frameworks  
+- **Web & Mobile Development** – Full-stack systems using modern languages & frameworks  
 - **DevOps & CI/CD** – Automation pipelines, IaC, containerisation, deployment  
 - **Machine Learning & Data Science** – Predictive modelling, data pipelines  
 - **Cybersecurity & Networking** – Offensive & defensive security, ethical hacking  
