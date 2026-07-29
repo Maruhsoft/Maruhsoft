@@ -1,0 +1,62 @@
+name: Validate README image URLs
+on:
+  push:
+    paths:
+      - 'README.md'
+      - '.github/workflows/validate-readme-images.yml'
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 0 * * 0' # weekly
+
+jobs:
+  check-images:
+    name: Check external images referenced in README.md
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Extract external image URLs from README
+        id: extract
+        run: |
+          set -euo pipefail
+          rm -f image_urls.txt tmp_urls.txt || true
+          # extract URLs from HTML attributes (src/href) and Markdown image/link syntax
+          grep -oP '(?:src|href)=\"\Khttps?://[^\" ]+' README.md || true > tmp_urls.txt
+          grep -oP '!\[[^\]]*\]\(\Khttps?://[^) ]+' README.md || true >> tmp_urls.txt
+          grep -oP '\[[^\]]*\]\(\Khttps?://[^) ]+' README.md || true >> tmp_urls.txt
+          sort -u tmp_urls.txt > image_urls.txt || true
+          count=0
+          if [ -f image_urls.txt ]; then
+            count=$(wc -l < image_urls.txt || echo 0)
+          fi
+          echo "count=$count" >> $GITHUB_OUTPUT
+
+      - name: Check URLs
+        if: steps.extract.outputs.count != '0'
+        run: |
+          set -euo pipefail
+          invalid=0
+          while IFS= read -r url; do
+            if [ -z "$url" ]; then
+              continue
+            fi
+            echo "Checking: $url"
+            # Follow redirects and return final HTTP code
+            code=$(curl -s -L -o /dev/null -w "%{http_code}" --max-time 15 --retry 2 --retry-delay 2 "$url" || echo "000")
+            echo "Result: $code"
+            # Accept 200, 301, 302 as OK. Adjust if you want only 200.
+            if [[ "$code" != "200" && "$code" != "301" && "$code" != "302" ]]; then
+              echo "Invalid/Unavailable image URL ($code): $url"
+              invalid=$((invalid+1))
+            fi
+          done < image_urls.txt
+          if [ "$invalid" -ne 0 ]; then
+            echo "Found $invalid invalid image URL(s)."
+            exit 1
+          fi
+
+      - name: No external images found
+        if: steps.extract.outputs.count == '0'
+        run: echo "No external image URLs found in README.md"
