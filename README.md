@@ -97,7 +97,7 @@ Architecting high-availability distributed systems, automated CI/CD pipelines, a
 
 ## GitHub & Activity Metrics
 
-I use a few third-party widgets to show GitHub statistics. Some of these services can occasionally go offline (Heroku deprecation, rate limits, etc.). If an image doesn't render, use the fallback badges I provide below.
+I used a few third-party widgets to show GitHub statistics. Some of these services can occasionally go offline (Heroku deprecation, rate limits, etc.).
 
 <!-- Primary (common) widgets -->
 <p align="left">
