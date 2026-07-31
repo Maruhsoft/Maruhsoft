@@ -143,7 +143,7 @@ I use a few third-party widgets to show GitHub statistics. Some of these service
 
 ## Contact & Links
 
-- **LinkedIn:** https://linkedin.com/in/maruhsoft
+- **LinkedIn:** https://www.linkedin.com/in/maruh-akporowho-647159124
 - **Email:** [maruhsoft@gmail.com](mailto:maruhsoft@gmail.com)
 
 <sub>*Profile repository maintained with CI/CD workflows.*</sub>
