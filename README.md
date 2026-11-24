@@ -24,14 +24,19 @@ A crypto-to-fiat and gift-card platform. Its public project repository documents
 - [Public project repository](https://github.com/Maruhsoft/exqpay_live)
 - [Private development repository](https://github.com/Maruhsoft/exqpay-php) *(access restricted)*
 
-### [Giga Maps — Backend](https://github.com/Maruhsoft/giga-maps-backend)
-Backend repository for Giga Maps, part of the initiative to map school connectivity and support evidence-based connectivity work.
+### [University Education Management Portal](https://uemp-mvp.maruhsoft.workers.dev) · Academic workflow MVP
+A Cloudflare Workers application demonstrating student course registration, lecturer result entry, departmental review, and result publication.
 
-### [Giga Maps — Frontend](https://github.com/Maruhsoft/giga-maps-frontend)
-Frontend repository for the Giga Maps application.
+- [Source code](https://github.com/Maruhsoft/UEMP)
+- [Architecture and setup](https://github.com/Maruhsoft/UEMP/tree/main/docs)
 
-### [Secure Multi-Tenant API System](https://github.com/Maruhsoft/secure-multi-tenant-API-system)
-An architecture-focused project exploring tenant isolation, authentication and authorization, API controls, validation, and audit logging.
+### [Secure Multi-Tenant API System](https://github.com/Maruhsoft/secure-multi-tenant-API-system) · Architecture blueprint
+A design-oriented project covering tenant isolation, authentication and authorization, API security, auditability, integrations, and operational concerns.
+
+## Open-source exploration
+
+- [Giga Maps backend fork](https://github.com/Maruhsoft/giga-maps-backend) — fork of [UNICEF's upstream repository](https://github.com/unicef/giga-maps-backend).
+- [Giga Maps frontend fork](https://github.com/Maruhsoft/giga-maps-frontend) — fork of [UNICEF's upstream repository](https://github.com/unicef/giga-maps-frontend).
 
 ## Technologies
 
